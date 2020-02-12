@@ -1,5 +1,6 @@
 # pagination-vue
-
+Just a copy of it:
+https://css-tricks.com/creating-a-reusable-pagination-component-in-vue/
 ## Project setup
 ```
 npm install
